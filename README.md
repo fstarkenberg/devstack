@@ -1,0 +1,2 @@
+# devstack
+Dockerfile for devstack
